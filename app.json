@@ -1,8 +1,8 @@
 {
-  "name": "Start on Heroku: Node.js",
-  "description": "A barebones Node.js app using Express 4",
-  "repository": "https://github.com/heroku/node-js-getting-started",
-  "logo": "https://cdn.rawgit.com/heroku/node-js-getting-started/master/public/node.svg",
+  "name": "Wraith Tools",
+  "description": "Wraith Tools",
+  "repository": "https://github.com/zento417/wraith-tools",
+  "logo": "https://wraith-tools.herokuapp.com/logo-wraith-blanc.png",
   "keywords": ["node", "express", "heroku"],
   "image": "heroku/nodejs"
 }
